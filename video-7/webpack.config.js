@@ -18,6 +18,10 @@ module.exports = {
       {
         from: "./src/manifest.json",
         to: "manifest.json"
+      },
+      {
+        from: "./src/images/",
+        to: "images"
       }
     ]),
     new WorkboxWebpackPlugin.InjectManifest({
