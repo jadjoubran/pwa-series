@@ -1,0 +1,20 @@
+{
+  "short_name": "Attendees",
+  "name": "Attendees",
+  "background_color": "#FFF",
+  "theme_color": "#00897b",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
